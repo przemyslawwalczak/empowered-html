@@ -1,0 +1,11 @@
+{
+  "name": "@morphjs/empowered-html",
+  "version": "0.0.1",
+  "description": "Parse and compilation of emp template files to javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Przemysław Walczak",
+  "license": "ISC"
+}
